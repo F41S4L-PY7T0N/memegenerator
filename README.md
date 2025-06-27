@@ -22,7 +22,7 @@ A Discord bot that fetches random memes from Reddit using [meme-api.com](https:/
 
 3. **Configure environment variables:**
 
-   Complete the `.env` file in the project root:
+   Create and Complete the `.env` file in the project root:
    ```
    DISCORD_TOKEN=your-bot-token-here
    CLIENT_ID=your-discord-application-client-id
