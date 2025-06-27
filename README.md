@@ -11,7 +11,7 @@ A Discord bot that fetches random memes from Reddit using [meme-api.com](https:/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/your-memegenerator-repo.git
+   git clone https://github.com/F41S4L-PY7T0N/memegenerator.git
    cd memegenerator
    ```
 
